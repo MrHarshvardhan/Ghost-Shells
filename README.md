@@ -12,17 +12,6 @@ Here's an **automated Python script** that fully implements the **Ghost Shells**
 
 ---
 
-### **🔥 How This Works**
-1. **Generates a Meterpreter Payload (`msfvenom`)**.
-2. **Encrypts the shellcode using AES (CBC Mode)**.
-3. **Compiles `API.dll` to modify memory protections**.
-4. **Creates `execute.ps1`**, a **stealthy PowerShell script** to:
-   - Load `API.dll` to use `VirtualProtect`.
-   - Decrypt the AES shellcode.
-   - Allocate and execute the shellcode dynamically.
-
----
-
 ### **💻 How to Use**
 #### **Step 1: Run the Python Script**
 ```bash
