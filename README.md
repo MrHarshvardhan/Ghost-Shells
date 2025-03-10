@@ -99,14 +99,6 @@ OS             : Windows 10 (10.0 Build 19044)
 Meterpreter    : x64/windows
 ```
 ---
-### **🔥 Automated & Hands-Free**
-- **No manual setup needed!**
-- **Asks for LHOST and LPORT**
-- **Generates & encrypts shellcode**
-- **Compiles API.dll**
-- **Starts the Metasploit listener**
-- **Creates a PowerShell script for execution**
-
 ### **🔹 Pre-Installed Tools Needed in Kali Linux**
 To execute this **automated Ghost Shells Python script**, you need the following **tools pre-installed** in **Kali Linux**:
 
